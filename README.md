@@ -8,7 +8,7 @@
 
 I am a Software Engineer focused on building scalable, high-performance backend systems and robust cross-platform applications. With a deep interest in **Systems Architecture** and **Cybersecurity**, I bridge the gap between complex technical requirements and elegant, maintainable code.
 
-With the rise in AI coding agents, the industry is seeing a significant increase in vulnerabilities within generated code. I advocate for a **DevSecOps** approach—ensuring that as development speed increases, security remains a first-class citizen. I write extensively on these topics and document my engineering journey at **[Gazimbi Chronicles](https://www.gazimbi.com/)**.
+With the rise in AI coding agents, the industry is seeing a significant increase in vulnerabilities within generated code. I advocate for a **DevSecOps** approach, ensuring that as development speed increases, security remains a first-class citizen. I write extensively on these topics and document my engineering journey at **[Gazimbi Chronicles](https://www.gazimbi.com/)**.
 
 Beyond engineering, I am a technical educator, sharing deep-dives into software internals and modern development workflows through my [YouTube channel](https://www.youtube.com/@craiggazimbi).
 
@@ -21,7 +21,7 @@ Beyond engineering, I am a technical educator, sharing deep-dives into software 
 
 | Category | Tools & Technologies |
 | --- | --- |
-| **Languages** | Rust, TypeScript, Go, Python, PHP, C#, Java, C++, Ruby, Kotlin, Swift |
+| **Languages** | Rust, JavaScript, Go, Python, PHP, C#, Java, C++, Ruby, Kotlin, Swift |
 | **Backend & APIs** | Node.js, **NestJS**, Laravel, Django, Express, GraphQL, Socket.io |
 | **Frontend & 3D** | **Three.js**, Angular, React, Next.js, Flutter, React Native, TailwindCSS |
 | **Database & Cloud** | MySQL (MariaDB), PostgreSQL, MongoDB, Redis, AWS, Azure, GCP |
