@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-craiggazimbi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/craiggazimbi)
 
+Also building Vaka, a small attempt at making loneliness a little less common.
+
 </div>
 
 ---
@@ -41,3 +43,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Design & Game Dev**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
