@@ -1,0 +1,33 @@
+{
+  "allowCompoundWords": true,
+  "enableFiletypes": [
+    "*"
+  ],
+  "enableGlobDot": true,
+  "files": [
+    "**/*"
+  ],
+  "ignorePaths": [
+    ".*ignore",
+    "**/__snapshots__/**",
+    "**/*.svg",
+    "**/coverage/**",
+    "**/dist/**",
+    "**/node_modules/**",
+    "/.git",
+    "/*.code-workspace",
+    "**/.env.*.local",
+    "/pnpm-lock.yaml"
+  ],
+  "includeRegExpList": [
+    "[ -ɏ]"
+  ],
+  "useGitignore": true,
+  "version": "0.2",
+  "words": [
+    "dailydotdev",
+    "devcard",
+    "yunchao",
+    "yunchaotsai"
+  ]
+}
